@@ -12,6 +12,8 @@ namespace Odev2
             PcMarkalari.Add(3,"Dell");
             PcMarkalari.Add(4,"Asus");
             Console.WriteLine(PcMarkalari.Length);
+
+            
         }
     }
 }
